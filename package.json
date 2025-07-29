@@ -37,7 +37,7 @@
     "recharts": "^2.8.0",
     "react-query": "^3.39.3",
     "@tanstack/react-query": "^5.17.9",
-    "react-query-devtools": "^3.32.1"
+    "@tanstack/react-query-devtools": "^5.83.0"
   },
   "devDependencies": {
     "typescript": "^5",
