@@ -2,7 +2,7 @@
 
 See how people may perceive you online with AI-powered sentiment analysis, intent detection, and tone analysis.
 
-## 🚀 Features
+##  Features
 
 - **Sentiment Analysis**: Understand the emotional tone of your content
 - **Intent Detection**: Identify what your message is trying to achieve
@@ -12,7 +12,7 @@ See how people may perceive you online with AI-powered sentiment analysis, inten
 - **Multiple Content Types**: Analyze social posts, emails, and dating profiles
 - **Pro Features**: Advanced analytics, unlimited analyses, and team collaboration
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Frontend**: Next.js 14, React 18, TypeScript
 - **Styling**: Tailwind CSS, Framer Motion
@@ -21,14 +21,14 @@ See how people may perceive you online with AI-powered sentiment analysis, inten
 - **Icons**: Lucide React
 - **Notifications**: React Hot Toast
 
-## 📋 Prerequisites
+##  Prerequisites
 
 - Node.js 18+ 
 - npm or yarn
 - Hugging Face API key
 - Stripe account (for payments)
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### 1. Clone the repository
 
@@ -76,7 +76,7 @@ yarn dev
 
 Open [http://localhost:3000](http://localhost:3000) to view the application.
 
-## 🔧 API Setup
+##  API Setup
 
 ### Hugging Face API
 
@@ -92,7 +92,7 @@ Open [http://localhost:3000](http://localhost:3000) to view the application.
 4. Set up webhooks for payment events
 5. Add all keys to your `.env.local` file
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 ai-social-mirror/
@@ -124,7 +124,7 @@ ai-social-mirror/
 └── README.md
 ```
 
-## 🎯 Usage
+##  Usage
 
 ### Basic Text Analysis
 
@@ -144,7 +144,7 @@ The analysis provides:
 - **Improvement Suggestions**: Actionable tips to enhance your message
 - **Potential Misinterpretations**: Ways your message might be misunderstood
 
-## 💳 Subscription Plans
+##  Subscription Plans
 
 ### Free Plan
 - 5 analyses per month
@@ -171,7 +171,7 @@ The analysis provides:
 - SLA guarantees
 - On-premise options
 
-## 🔌 API Endpoints
+##  API Endpoints
 
 ### Analyze Text
 ```http
@@ -197,7 +197,7 @@ Content-Type: application/json
 }
 ```
 
-## 🚀 Deployment
+##  Deployment
 
 ### Vercel (Recommended)
 
@@ -215,7 +215,7 @@ The app can be deployed to any platform that supports Next.js:
 - DigitalOcean App Platform
 - AWS Amplify
 
-## 🤝 Contributing
+##  Contributing
 
 1. Fork the repository
 2. Create a feature branch (`git checkout -b feature/amazing-feature`)
@@ -223,13 +223,13 @@ The app can be deployed to any platform that supports Next.js:
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 🆘 Support
+##  Support
 
 - Email: support@aisocialmirror.com
 - Documentation: [docs.aisocialmirror.com](https://docs.aisocialmirror.com)
 - Issues: [GitHub Issues](https://github.com/your-repo/issues)
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - [Hugging Face](https://huggingface.co/) for AI models
 - [Stripe](https://stripe.com/) for payment processing
@@ -238,5 +238,3 @@ The app can be deployed to any platform that supports Next.js:
 - [Framer Motion](https://www.framer.com/motion/) for animations
 
 ---
-
-Made with ❤️ for better online communication 
